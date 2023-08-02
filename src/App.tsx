@@ -119,7 +119,7 @@ const App: React.FC = () => {
           </div>
 
           <p className='text-sm pt-4'>
-            © Josh Daniel 2021 • All Rights Reserved
+            © ralph quinones • All Rights Reserved
           </p>
         </div>
 
